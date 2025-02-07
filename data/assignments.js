@@ -1,1 +1,230 @@
-assignments = {};
+assignments = {
+  "ASTRON 98": [
+    {
+      "title": "Homework 2: GitHub",
+      "course": "ASTRON 98",
+      "dueDate": "2025-02-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564",
+      "submitted": false
+    },
+    {
+      "title": "Homework 1: Terminal",
+      "course": "ASTRON 98",
+      "dueDate": "2025-02-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629351/submissions/305103767",
+      "submitted": true
+    }
+  ],
+  "ASTRON C12/EPS C12/L&SC70T": [
+    {
+      "title": "Homework 1",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-01-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684/assignments/5661823/submissions/303286660",
+      "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-02-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684",
+      "submitted": false
+    },
+    {
+      "title": "Phases of the Moon Observing Project",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-05-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684",
+      "submitted": false
+    },
+    {
+      "title": "Sunsets Observing Project",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-05-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684",
+      "submitted": false
+    },
+    {
+      "title": "Homework 3",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-02-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684",
+      "submitted": false
+    }
+  ],
+  "Chem 3A (Spring 2025)": [
+    {
+      "title": "PLWS 01",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5638482/submissions/301134081",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 02",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5638504/submissions/301711437",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 03",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5658752/submissions/302959282",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 04",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5658753/submissions/303737045",
+      "submitted": true
+    },
+    {
+      "title": "Discussion - Week 02 (Jan 27 - Jan 31)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
+    },
+    {
+      "title": "PLWS 05",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5709360/submissions/305268415",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 06",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5709361/submissions/306083829",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 07",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
+    },
+    {
+      "title": "Discussion - Week 03 (Feb 3 - Feb 7)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5720287/submissions/304879111",
+      "submitted": true
+    }
+  ],
+  "MATH 53 - DISC 201": [],
+  "Math 53": [
+    {
+      "title": "Homework 1",
+      "course": "Math 53",
+      "dueDate": "2025-01-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668952/submissions/304138464",
+      "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "Math 53",
+      "dueDate": "2025-02-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668980/submissions/305690272",
+      "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "Math 53",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 4",
+      "course": "Math 53",
+      "dueDate": "2025-02-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 5",
+      "course": "Math 53",
+      "dueDate": "2025-02-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 6",
+      "course": "Math 53",
+      "dueDate": "2025-03-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 7",
+      "course": "Math 53",
+      "dueDate": "2025-03-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 8",
+      "course": "Math 53",
+      "dueDate": "2025-03-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 9",
+      "course": "Math 53",
+      "dueDate": "2025-03-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 10",
+      "course": "Math 53",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 11",
+      "course": "Math 53",
+      "dueDate": "2025-04-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 12",
+      "course": "Math 53",
+      "dueDate": "2025-04-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 13",
+      "course": "Math 53",
+      "dueDate": "2025-04-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    }
+  ],
+  "Physics 5A": [
+    {
+      "title": "HW 1",
+      "course": "Physics 5A",
+      "dueDate": "2025-01-31T17:00:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5661017/submissions/304033620",
+      "submitted": true
+    },
+    {
+      "title": "HW 2",
+      "course": "Physics 5A",
+      "dueDate": "2025-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5703741/submissions/306078393",
+      "submitted": true
+    }
+  ]
+};
