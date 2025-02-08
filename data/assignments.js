@@ -225,6 +225,13 @@ assignments = {
       "dueDate": "2025-02-06T23:59:00",
       "link": "https://www.gradescope.com/courses/965885/assignments/5703741/submissions/306078393",
       "submitted": true
+    },
+    {
+      "title": "HW 3",
+      "course": "Physics 5A",
+      "dueDate": "2025-02-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/965885",
+      "submitted": false
     }
   ]
 };
