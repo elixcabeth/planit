@@ -4,8 +4,8 @@ assignments = {
       "title": "Homework 2: GitHub",
       "course": "ASTRON 98",
       "dueDate": "2025-02-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/959564",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629347/submissions/306646840",
+      "submitted": true
     },
     {
       "title": "Homework 1: Terminal",
