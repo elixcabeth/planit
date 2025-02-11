@@ -141,8 +141,8 @@ assignments = {
       "title": "Discussion - Week 04 (Feb 10 - Feb 14)",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-02-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5758230/submissions/307083522",
+      "submitted": true
     },
     {
       "title": "PLWS 09.5 - Exam 1 Study Guide",
