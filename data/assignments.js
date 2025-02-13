@@ -179,8 +179,8 @@ assignments = {
       "title": "Homework 3",
       "course": "Math 53",
       "dueDate": "2025-02-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/949805",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668985/submissions/307961064",
+      "submitted": true
     },
     {
       "title": "Homework 4",
