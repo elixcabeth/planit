@@ -134,8 +134,8 @@ assignments = {
       "title": "PLWS 08",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-02-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5757792/submissions/308045332",
+      "submitted": true
     },
     {
       "title": "PLWS 08.5",
