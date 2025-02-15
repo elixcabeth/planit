@@ -55,8 +55,8 @@ assignments = {
       "title": "Homework 3",
       "course": "ASTRON C12/EPS C12/L&SC70T",
       "dueDate": "2025-02-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/958684",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/958684/assignments/5738257/submissions/308853146",
+      "submitted": true
     },
     {
       "title": "Homework 4",
