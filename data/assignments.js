@@ -11,8 +11,8 @@ assignments = {
       "title": "Homework 3: Data Types, Functions, Loops, Conditionals",
       "course": "ASTRON 98",
       "dueDate": "2025-02-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/959564",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629349/submissions/309854485",
+      "submitted": true
     },
     {
       "title": "Homework 1: Terminal",
