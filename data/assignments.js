@@ -197,8 +197,8 @@ assignments = {
       "title": "Discussion - Week 05 (Feb 17 - Feb 21)",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-02-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5804646/submissions/311072863",
+      "submitted": true
     }
   ],
   "MATH 53 - DISC 201": [],
