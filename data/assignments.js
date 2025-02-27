@@ -34,6 +34,13 @@ assignments = {
       "dueDate": "2025-03-04T23:59:00",
       "link": "https://www.gradescope.com/courses/959564",
       "submitted": false
+    },
+    {
+      "title": "Final Project: Check-in #1",
+      "course": "ASTRON 98",
+      "dueDate": "2025-04-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564",
+      "submitted": false
     }
   ],
   "ASTRON C12/EPS C12/L&SC70T": [
@@ -270,8 +277,8 @@ assignments = {
       "title": "Homework 5",
       "course": "Math 53",
       "dueDate": "2025-02-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/949805",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668992/submissions/312669591",
+      "submitted": true
     },
     {
       "title": "Homework 6",
