@@ -239,8 +239,8 @@ assignments = {
       "title": "Exam 01 Analysis",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-02-28T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5837865/submissions/313352175",
+      "submitted": true
     },
     {
       "title": "Discussion - Week 06 (Feb 24 - Feb 28)",
