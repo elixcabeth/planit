@@ -252,14 +252,14 @@ assignments = {
     {
       "title": "PLWS 13",
       "course": "Chem 3A (Spring 2025)",
-      "dueDate": "2025-07-11T23:59:00",
+      "dueDate": "2025-03-04T23:59:00",
       "link": "https://www.gradescope.com/courses/961182",
       "submitted": false
     },
     {
       "title": "PLWS 14",
       "course": "Chem 3A (Spring 2025)",
-      "dueDate": "2025-07-15T23:59:00",
+      "dueDate": "2025-03-06T23:59:00",
       "link": "https://www.gradescope.com/courses/961182",
       "submitted": false
     }
