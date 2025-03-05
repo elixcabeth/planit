@@ -46,8 +46,8 @@ assignments = {
       "title": "Homework 5: Review",
       "course": "ASTRON 98",
       "dueDate": "2025-03-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/959564",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629714/submissions/314514173",
+      "submitted": true
     },
     {
       "title": "Final Project: Check-in #1",
@@ -267,8 +267,8 @@ assignments = {
       "title": "PLWS 13",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-03-04T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5874315/submissions/314509660",
+      "submitted": true
     },
     {
       "title": "PLWS 14",
