@@ -55,6 +55,13 @@ assignments = {
       "dueDate": "2025-04-01T23:59:00",
       "link": "https://www.gradescope.com/courses/959564",
       "submitted": false
+    },
+    {
+      "title": "(Extra Credit) Homework 5.5: Branching",
+      "course": "ASTRON 98",
+      "dueDate": "2025-03-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564",
+      "submitted": false
     }
   ],
   "ASTRON C12/EPS C12/L&SC70T": [
@@ -412,8 +419,8 @@ assignments = {
       "title": "HW 5",
       "course": "Physics 5A",
       "dueDate": "2025-03-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/965885",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/965885/assignments/5885674/submissions/315257053",
+      "submitted": true
     }
   ]
 };
