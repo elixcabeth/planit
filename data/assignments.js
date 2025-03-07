@@ -288,8 +288,8 @@ assignments = {
       "title": "PLWS 14",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-03-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5874316/submissions/315269987",
+      "submitted": true
     }
   ],
   "MATH 53 - DISC 201": [],
