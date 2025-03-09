@@ -57,7 +57,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "(Extra Credit) Homework 5.5: Branching",
+      "title": "(Extra Credit) Homework 6.5: Branching",
       "course": "ASTRON 98",
       "dueDate": "2025-03-18T23:59:00",
       "link": "https://www.gradescope.com/courses/959564",
