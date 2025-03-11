@@ -43,6 +43,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Homework 7: Modules",
+      "course": "ASTRON 98",
+      "dueDate": "2025-03-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564",
+      "submitted": false
+    },
+    {
       "title": "Homework 5: Review",
       "course": "ASTRON 98",
       "dueDate": "2025-03-04T23:59:00",
