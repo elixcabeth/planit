@@ -454,8 +454,8 @@ assignments = {
       "title": "HW 6",
       "course": "Physics 5A",
       "dueDate": "2025-03-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/965885",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/965885/assignments/5924953/submissions/317163684",
+      "submitted": true
     }
   ]
 };
