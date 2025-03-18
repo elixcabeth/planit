@@ -330,8 +330,8 @@ assignments = {
       "title": "Discussion - Week 09 (Mar 17 - Mar 21)",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-03-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5936845/submissions/318017319",
+      "submitted": true
     },
     {
       "title": "PLWS 17",
