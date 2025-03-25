@@ -360,6 +360,20 @@ assignments = {
       "dueDate": "2025-04-03T23:59:00",
       "link": "https://www.gradescope.com/courses/961182",
       "submitted": false
+    },
+    {
+      "title": "PLWS 19",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-04-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
+    },
+    {
+      "title": "PLWS 20",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-22T11:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
     }
   ],
   "MATH 53 - DISC 201": [],
