@@ -18,8 +18,8 @@ assignments = {
       "title": "Homework 6: Numpy Arrays",
       "course": "ASTRON 98",
       "dueDate": "2025-03-11T23:59:00",
-      "link": "https://www.gradescope.com/courses/959564",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629350/submissions/319875280",
+      "submitted": true
     },
     {
       "title": "Homework 1: Terminal",
