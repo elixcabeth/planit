@@ -141,6 +141,13 @@ assignments = {
       "dueDate": "2025-03-21T23:59:00",
       "link": "https://www.gradescope.com/courses/958684/assignments/5941211/submissions/319189494",
       "submitted": true
+    },
+    {
+      "title": "Homework 8",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684",
+      "submitted": false
     }
   ],
   "Chem 3A (Spring 2025)": [
