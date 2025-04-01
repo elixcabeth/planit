@@ -386,8 +386,8 @@ assignments = {
       "title": "Discussion - Week 11 (Mar 31 - Apr 4)",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-03-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/6014849/submissions/321445039",
+      "submitted": true
     }
   ],
   "MATH 53 - DISC 201": [],
@@ -452,8 +452,8 @@ assignments = {
       "title": "Homework 9",
       "course": "Math 53",
       "dueDate": "2025-03-31T23:59:00",
-      "link": "https://www.gradescope.com/courses/949805",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949805/assignments/5669158/submissions/321441957",
+      "submitted": true
     },
     {
       "title": "Homework 10",
