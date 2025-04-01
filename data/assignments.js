@@ -71,6 +71,13 @@ assignments = {
       "submitted": false
     },
     {
+      "title": "Final Project: Check-in #2",
+      "course": "ASTRON 98",
+      "dueDate": "2025-04-29T15:30:00",
+      "link": "https://www.gradescope.com/courses/959564",
+      "submitted": false
+    },
+    {
       "title": "(Extra Credit) Homework 6.5: Branching",
       "course": "ASTRON 98",
       "dueDate": "2025-03-18T23:59:00",
