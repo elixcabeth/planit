@@ -1,460 +1,544 @@
 assignments = {
-  "CS 194/294-196": [
+  "ASTRON 98": [
     {
-      "title": "9/16 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-09-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4872742/submissions/267459098",
+      "title": "Homework 2: GitHub",
+      "course": "ASTRON 98",
+      "dueDate": "2025-02-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629347/submissions/306646840",
       "submitted": true
     },
     {
-      "title": "Project Group Formation [2/3/4 Units Students]",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
+      "title": "Homework 3: Data Types, Functions, Loops, Conditionals",
+      "course": "ASTRON 98",
+      "dueDate": "2025-02-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629349/submissions/309854485",
+      "submitted": true
+    },
+    {
+      "title": "Homework 6: Numpy Arrays",
+      "course": "ASTRON 98",
+      "dueDate": "2025-03-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629350/submissions/319875280",
+      "submitted": true
+    },
+    {
+      "title": "Homework 1: Terminal",
+      "course": "ASTRON 98",
+      "dueDate": "2025-02-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629351/submissions/305103767",
+      "submitted": true
+    },
+    {
+      "title": "Homework 4: Lists, Dictionaries, Debugging",
+      "course": "ASTRON 98",
+      "dueDate": "2025-02-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629352/submissions/312185384",
+      "submitted": true
+    },
+    {
+      "title": "Final Project Proposal",
+      "course": "ASTRON 98",
+      "dueDate": "2025-04-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564",
       "submitted": false
     },
     {
-      "title": "Article [1 Unit Students ONLY]",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-12-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4915347/submissions/295828867",
-      "submitted": true
-    },
-    {
-      "title": "9/23 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-09-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4973021/submissions/270064307",
-      "submitted": true
-    },
-    {
-      "title": "Quiz 1",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-09-23T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4987096/submissions/268941250",
-      "submitted": true
-    },
-    {
-      "title": "Quiz 2",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-09-30T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/4999860/submissions/270584048",
-      "submitted": true
-    },
-    {
-      "title": "Project Proposal",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-09-30T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
+      "title": "Homework 8: Plotting + Pandas",
+      "course": "ASTRON 98",
+      "dueDate": "2025-04-08T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564",
       "submitted": false
     },
     {
-      "title": "9/30 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-09-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5024425/submissions/272466563",
+      "title": "Homework 7: Modules",
+      "course": "ASTRON 98",
+      "dueDate": "2025-03-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629356/submissions/318318900",
       "submitted": true
     },
     {
-      "title": "Quiz 3",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-09-30T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5039167/submissions/272474814",
+      "title": "Homework 5: Review",
+      "course": "ASTRON 98",
+      "dueDate": "2025-03-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629714/submissions/314514173",
       "submitted": true
     },
     {
-      "title": "10/7 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5072751/submissions/274904895",
-      "submitted": true
-    },
-    {
-      "title": "Quiz 4",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-07T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5097636/submissions/274903302",
-      "submitted": true
-    },
-    {
-      "title": "10/14 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-13T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5117622/submissions/277499817",
-      "submitted": true
-    },
-    {
-      "title": "Lab 01, Submission (Restaurant Analyzing Pipeline)",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
+      "title": "Final Project: Check-in #1",
+      "course": "ASTRON 98",
+      "dueDate": "2025-04-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564",
       "submitted": false
     },
     {
-      "title": "Lab 02, Submission  (Writing Attacks)",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
+      "title": "Final Project: Check-in #2",
+      "course": "ASTRON 98",
+      "dueDate": "2025-04-29T15:30:00",
+      "link": "https://www.gradescope.com/courses/959564",
       "submitted": false
     },
     {
-      "title": "Lab 03, Submission (Writing LLM Defense)",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247",
+      "title": "(Extra Credit) Homework 6.5: Branching",
+      "course": "ASTRON 98",
+      "dueDate": "2025-03-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/959564",
+      "submitted": false
+    }
+  ],
+  "ASTRON C12/EPS C12/L&SC70T": [
+    {
+      "title": "Homework 1",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-01-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684/assignments/5661823/submissions/303286660",
+      "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-02-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684/assignments/5709587/submissions/306479134",
+      "submitted": true
+    },
+    {
+      "title": "Phases of the Moon Observing Project",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-05-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684",
       "submitted": false
     },
     {
-      "title": "Quiz 5",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-14T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5132029/submissions/277498015",
+      "title": "Sunsets Observing Project",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-05-02T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684",
+      "submitted": false
+    },
+    {
+      "title": "Homework 3",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-02-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684/assignments/5738257/submissions/308853146",
       "submitted": true
     },
     {
-      "title": "10/21 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5160116/submissions/279996214",
+      "title": "Homework 4",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-02-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684/assignments/5788137/submissions/313482804",
       "submitted": true
     },
     {
-      "title": "Quiz 6",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-21T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5183961/submissions/279894160",
+      "title": "Homework 5",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-02-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684/assignments/5833850/submissions/313505411",
       "submitted": true
     },
     {
-      "title": "10/28 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-27T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5197544/submissions/282614521",
+      "title": "Homework 6",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-03-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684/assignments/5895318/submissions/317455331",
       "submitted": true
     },
     {
-      "title": "Quiz 7",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-10-28T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5215207/submissions/282511712",
+      "title": "Homework 7",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-03-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684/assignments/5941211/submissions/319189494",
       "submitted": true
     },
     {
-      "title": "11/4 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-11-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5233313/submissions/284947868",
+      "title": "Homework 8",
+      "course": "ASTRON C12/EPS C12/L&SC70T",
+      "dueDate": "2025-04-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/958684",
+      "submitted": false
+    }
+  ],
+  "Chem 3A (Spring 2025)": [
+    {
+      "title": "PLWS 01",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5638482/submissions/301134081",
       "submitted": true
     },
     {
-      "title": "Quiz 8",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-11-04T15:10:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5253610/submissions/284864818",
+      "title": "PLWS 02",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5638504/submissions/301711437",
       "submitted": true
     },
     {
-      "title": "Quiz 9",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5287356/submissions/287459539",
+      "title": "PLWS 03",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5658752/submissions/302959282",
       "submitted": true
     },
     {
-      "title": "11/18 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-11-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5294999/submissions/289969094",
+      "title": "PLWS 04",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5658753/submissions/303737045",
       "submitted": true
     },
     {
-      "title": "11/25 Reading Summary & Questions",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-11-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5343776/submissions/292336445",
+      "title": "Discussion - Week 02 (Jan 27 - Jan 31)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-01-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
+    },
+    {
+      "title": "PLWS 05",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5709360/submissions/305268415",
       "submitted": true
     },
     {
-      "title": "Quiz 10",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-11-26T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5369834/submissions/293057619",
+      "title": "PLWS 06",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5709361/submissions/306083829",
       "submitted": true
     },
     {
-      "title": "Quiz 11",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5406524/submissions/296559465",
+      "title": "PLWS 07",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5709380/submissions/307198098",
       "submitted": true
     },
     {
-      "title": "Quiz 12",
-      "course": "CS 194/294-196",
-      "dueDate": "2025-12-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/852247/assignments/5406551/submissions/296567931",
+      "title": "Discussion - Week 03 (Feb 3 - Feb 7)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5720287/submissions/304879111",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 07.5",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5757791/submissions/307437194",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 08",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5757792/submissions/308045332",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 08.5",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5757793/submissions/308608878",
+      "submitted": true
+    },
+    {
+      "title": "Discussion - Week 04 (Feb 10 - Feb 14)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5758230/submissions/307083522",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 09.5 - Exam 1 Study Guide",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5758247/submissions/310597342",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 09",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5804121/submissions/309681819",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 10",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5804641/submissions/311224724",
+      "submitted": true
+    },
+    {
+      "title": "Discussion - Week 05 (Feb 17 - Feb 21)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5804646/submissions/311072863",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 11",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-25T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5837659/submissions/312239159",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 12",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-27T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5837660/submissions/313247449",
+      "submitted": true
+    },
+    {
+      "title": "Exam 01 Analysis",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5837865/submissions/313352175",
+      "submitted": true
+    },
+    {
+      "title": "Discussion - Week 06 (Feb 24 - Feb 28)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-02-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5837872/submissions/311795832",
+      "submitted": true
+    },
+    {
+      "title": "Discussion - Week 07 (Mar 3 - Mar 7)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5874314/submissions/314043959",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 13",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-04T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5874315/submissions/314509660",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 14",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5874316/submissions/315269987",
+      "submitted": true
+    },
+    {
+      "title": "Discussion - Week 08 (Mar 10 - Mar 14)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5907381/submissions/316169354",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 15",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5907407/submissions/316502014",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 16",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5907409/submissions/317278891",
+      "submitted": true
+    },
+    {
+      "title": "Discussion - Week 09 (Mar 17 - Mar 21)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5936845/submissions/318017319",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 17",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-18T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5936847/submissions/318335798",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 18",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/5936848/submissions/318910897",
+      "submitted": true
+    },
+    {
+      "title": "PLWS 20.5 - Exam 2 Study Guide",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-04-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
+    },
+    {
+      "title": "PLWS 19",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-04-01T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
+    },
+    {
+      "title": "PLWS 20",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-04-03T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
+    },
+    {
+      "title": "Discussion - Week 11 (Mar 31 - Apr 4)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-03-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182/assignments/6014849/submissions/321445039",
       "submitted": true
     }
   ],
-  "CS188": [
+  "MATH 53 - DISC 201": [],
+  "Math 53": [
     {
-      "title": "[Ungraded] Homework 0",
-      "course": "CS188",
-      "dueDate": "2025-09-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036",
+      "title": "Homework 1",
+      "course": "Math 53",
+      "dueDate": "2025-01-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668952/submissions/304138464",
+      "submitted": true
+    },
+    {
+      "title": "Homework 2",
+      "course": "Math 53",
+      "dueDate": "2025-02-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668980/submissions/305690272",
+      "submitted": true
+    },
+    {
+      "title": "Homework 3",
+      "course": "Math 53",
+      "dueDate": "2025-02-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668985/submissions/307961064",
+      "submitted": true
+    },
+    {
+      "title": "Homework 4",
+      "course": "Math 53",
+      "dueDate": "2025-02-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668989/submissions/310264059",
+      "submitted": true
+    },
+    {
+      "title": "Homework 5",
+      "course": "Math 53",
+      "dueDate": "2025-02-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668992/submissions/312669591",
+      "submitted": true
+    },
+    {
+      "title": "Homework 6",
+      "course": "Math 53",
+      "dueDate": "2025-03-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5668995/submissions/314882652",
+      "submitted": true
+    },
+    {
+      "title": "Homework 7",
+      "course": "Math 53",
+      "dueDate": "2025-03-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5669008/submissions/316842072",
+      "submitted": true
+    },
+    {
+      "title": "Homework 8",
+      "course": "Math 53",
+      "dueDate": "2025-03-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5669156/submissions/320931712",
+      "submitted": true
+    },
+    {
+      "title": "Homework 9",
+      "course": "Math 53",
+      "dueDate": "2025-03-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805/assignments/5669158/submissions/321441957",
+      "submitted": true
+    },
+    {
+      "title": "Homework 10",
+      "course": "Math 53",
+      "dueDate": "2025-04-09T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
       "submitted": false
     },
     {
-      "title": "Homework 1 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4792599/submissions/264383739",
-      "submitted": true
-    },
-    {
-      "title": "[Ungraded] Project 0",
-      "course": "CS188",
-      "dueDate": "2025-09-04T17:00:00",
-      "link": "https://www.gradescope.com/courses/825036",
+      "title": "Homework 11",
+      "course": "Math 53",
+      "dueDate": "2025-04-16T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
       "submitted": false
     },
     {
-      "title": "Homework 1 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-09-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4841846/submissions/265484992",
+      "title": "Homework 12",
+      "course": "Math 53",
+      "dueDate": "2025-04-23T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    },
+    {
+      "title": "Homework 13",
+      "course": "Math 53",
+      "dueDate": "2025-04-30T23:59:00",
+      "link": "https://www.gradescope.com/courses/949805",
+      "submitted": false
+    }
+  ],
+  "Physics 5A": [
+    {
+      "title": "HW 1",
+      "course": "Physics 5A",
+      "dueDate": "2025-01-31T17:00:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5661017/submissions/304033620",
       "submitted": true
     },
     {
-      "title": "Homework 2 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4860548/submissions/267740875",
+      "title": "HW 2",
+      "course": "Physics 5A",
+      "dueDate": "2025-02-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5703741/submissions/306078393",
       "submitted": true
     },
     {
-      "title": "Project 1",
-      "course": "CS188",
-      "dueDate": "2025-09-20T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4893995/submissions/266460942",
+      "title": "HW 3",
+      "course": "Physics 5A",
+      "dueDate": "2025-02-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5753481/submissions/308463280",
       "submitted": true
     },
     {
-      "title": "Homework 1 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4909916/submissions/268085200",
+      "title": "HW 4",
+      "course": "Physics 5A",
+      "dueDate": "2025-02-20T23:59:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5796629/submissions/310658684",
       "submitted": true
     },
     {
-      "title": "Homework 2 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-09-17T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4928850/submissions/268113302",
+      "title": "HW 5",
+      "course": "Physics 5A",
+      "dueDate": "2025-03-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5885674/submissions/315257053",
       "submitted": true
     },
     {
-      "title": "Homework 2 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-09-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4928854/submissions/269792933",
+      "title": "HW 6",
+      "course": "Physics 5A",
+      "dueDate": "2025-03-13T23:59:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5924953/submissions/317163684",
       "submitted": true
     },
     {
-      "title": "Homework 3 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-09-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4951675/submissions/270626372",
-      "submitted": true
-    },
-    {
-      "title": "Homework 3 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-09-24T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/4979105/submissions/270671273",
-      "submitted": true
-    },
-    {
-      "title": "Homework 4 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-10-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5003266/submissions/273390003",
-      "submitted": true
-    },
-    {
-      "title": "Homework 3 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-10-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5003271/submissions/272481593",
-      "submitted": true
-    },
-    {
-      "title": "Project 2",
-      "course": "CS188",
-      "dueDate": "2025-10-02T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5005647/submissions/272663357",
-      "submitted": true
-    },
-    {
-      "title": "Homework 4 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-10-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5031465/submissions/273462500",
-      "submitted": true
-    },
-    {
-      "title": "Homework 4 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-10-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5031507/submissions/275049154",
-      "submitted": true
-    },
-    {
-      "title": "Homework 5 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-10-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5050500/submissions/274965002",
-      "submitted": true
-    },
-    {
-      "title": "Homework 5 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-10-08T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5074223/submissions/274976290",
-      "submitted": true
-    },
-    {
-      "title": "Homework 6 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-10-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5100415/submissions/277932427",
-      "submitted": true
-    },
-    {
-      "title": "Project 3",
-      "course": "CS188",
-      "dueDate": "2025-10-10T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5100557/submissions/275587386",
-      "submitted": true
-    },
-    {
-      "title": "Homework 5 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-10-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5124863/submissions/280898795",
-      "submitted": true
-    },
-    {
-      "title": "Homework 6 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-10-22T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5127417/submissions/280963055",
-      "submitted": true
-    },
-    {
-      "title": "Homework 7 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-10-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5172281/submissions/283487936",
-      "submitted": true
-    },
-    {
-      "title": "Homework 6 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-10-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5202995/submissions/283465917",
-      "submitted": true
-    },
-    {
-      "title": "Homework 7 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-10-29T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5204689/submissions/283587484",
-      "submitted": true
-    },
-    {
-      "title": "Homework 8 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5218113/submissions/286205718",
-      "submitted": true
-    },
-    {
-      "title": "Homework 8 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5241652/submissions/286231168",
-      "submitted": true
-    },
-    {
-      "title": "Homework 7 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-11-06T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5241654/submissions/286203615",
-      "submitted": true
-    },
-    {
-      "title": "Project 4",
-      "course": "CS188",
-      "dueDate": "2025-11-14T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5256537/submissions/288872865",
-      "submitted": true
-    },
-    {
-      "title": "Homework 8 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5263077/submissions/288455652",
-      "submitted": true
-    },
-    {
-      "title": "Homework 9 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5263127/submissions/288415896",
-      "submitted": true
-    },
-    {
-      "title": "Homework 9 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-11-12T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5271019/submissions/288454130",
-      "submitted": true
-    },
-    {
-      "title": "Homework 10 [Electronic Component]",
-      "course": "CS188",
-      "dueDate": "2025-11-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5300493/submissions/290926984",
-      "submitted": true
-    },
-    {
-      "title": "Homework 9 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-11-19T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5300506/submissions/290945460",
-      "submitted": true
-    },
-    {
-      "title": "Homework 10 [Written Component]",
-      "course": "CS188",
-      "dueDate": "2025-11-21T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5313919/submissions/290951991",
-      "submitted": true
-    },
-    {
-      "title": "Homework 10 [Self-Assessment]",
-      "course": "CS188",
-      "dueDate": "2025-12-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5345907/submissions/294070290",
-      "submitted": true
-    },
-    {
-      "title": "Project 5",
-      "course": "CS188",
-      "dueDate": "2025-12-05T23:59:00",
-      "link": "https://www.gradescope.com/courses/825036/assignments/5367189/submissions/296886802",
+      "title": "HW 7",
+      "course": "Physics 5A",
+      "dueDate": "2025-03-22T23:59:00",
+      "link": "https://www.gradescope.com/courses/965885/assignments/5943997/submissions/319298796",
       "submitted": true
     }
   ]
