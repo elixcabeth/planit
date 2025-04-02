@@ -39,8 +39,8 @@ assignments = {
       "title": "Final Project Proposal",
       "course": "ASTRON 98",
       "dueDate": "2025-04-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/959564",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/959564/assignments/5629353/submissions/321730087",
+      "submitted": true
     },
     {
       "title": "Homework 8: Plotting + Pandas",
@@ -67,8 +67,8 @@ assignments = {
       "title": "Final Project: Check-in #1",
       "course": "ASTRON 98",
       "dueDate": "2025-04-01T23:59:00",
-      "link": "https://www.gradescope.com/courses/959564",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/959564/assignments/5855063/submissions/321730903",
+      "submitted": true
     },
     {
       "title": "Final Project: Check-in #2",
