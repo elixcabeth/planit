@@ -372,8 +372,8 @@ assignments = {
       "title": "PLWS 20.5 - Exam 2 Study Guide",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-04-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5936906/submissions/322305629",
+      "submitted": true
     },
     {
       "title": "PLWS 19",
@@ -386,8 +386,8 @@ assignments = {
       "title": "PLWS 20",
       "course": "Chem 3A (Spring 2025)",
       "dueDate": "2025-04-03T23:59:00",
-      "link": "https://www.gradescope.com/courses/961182",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/961182/assignments/5985729/submissions/322303033",
+      "submitted": true
     },
     {
       "title": "Discussion - Week 11 (Mar 31 - Apr 4)",
