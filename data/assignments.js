@@ -409,6 +409,13 @@ assignments = {
       "dueDate": "2025-04-10T23:59:00",
       "link": "https://www.gradescope.com/courses/961182",
       "submitted": false
+    },
+    {
+      "title": "Discussion - Week 12 (Apr 7 - Apr 11)",
+      "course": "Chem 3A (Spring 2025)",
+      "dueDate": "2025-04-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/961182",
+      "submitted": false
     }
   ],
   "MATH 53 - DISC 201": [],
