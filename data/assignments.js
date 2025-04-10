@@ -508,8 +508,8 @@ assignments = {
       "title": "Homework 10",
       "course": "Math 53",
       "dueDate": "2025-04-09T23:59:00",
-      "link": "https://www.gradescope.com/courses/949805",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/949805/assignments/5669159/submissions/323998256",
+      "submitted": true
     },
     {
       "title": "Homework 11",
